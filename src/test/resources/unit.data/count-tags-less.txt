@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<response>
+  <result>
+    <msg>
+      <text>Parser error.</text>
+    </msg>
+    <status>
+      <code>E00000</code>
+      <text>Errors occurred during processing.</text>
+      <type>error</type>
+    </status>
+  </result>
+  <stid>20240918-app1-351884</stid>
+</response>
